@@ -1,0 +1,5 @@
+cd /Downloads
+git clone repo url
+git branch master
+git branch -a
+git checkout <branch-name>
